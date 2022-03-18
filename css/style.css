@@ -11,6 +11,10 @@ body {
   color: hsl(215, 51%, 70%);
   font-family: 'Outfit', sans-serif;
   font-weight: 300;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 a {
